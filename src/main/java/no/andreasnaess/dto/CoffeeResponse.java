@@ -1,8 +1,5 @@
 package no.andreasnaess.dto;
 
-/**
- * Created by Andreas on 13.12.2017.
- */
 public class CoffeeResponse {
     private String type;
 
